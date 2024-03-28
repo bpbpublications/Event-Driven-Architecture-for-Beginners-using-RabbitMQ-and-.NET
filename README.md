@@ -1,2 +1,2 @@
-# Event-Driven Architecture for Beginners using RabbitMQ and .NET
- Event-Driven Architecture for Beginners using RabbitMQ and .NET, by BPB Publications
+# Event-driven Architecture for Beginners Using RabbitMQ and .NET
+ Event-driven Architecture for Beginners Using RabbitMQ and .NET, by BPB Publications
